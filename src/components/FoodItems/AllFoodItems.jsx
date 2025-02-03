@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import "../../assets/style.css"
+import "../../../style.css"
 import menu from '../../assets/data'
 import FoodItem from './FoodItem';
 import foodStyle from '../FoodItems/foodItems.module.css'

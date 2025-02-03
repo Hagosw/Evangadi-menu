@@ -1,8 +1,8 @@
 
 import { Component } from 'react';
 import './App.css';
-import Header from './components/Header/Header';
-import AllFoodItems from './components/FoodItems/AllFoodItems'
+import Header from './src/components/Header/Header';
+import AllFoodItems from './src/components/FoodItems/AllFoodItems'
 
 class App extends Component {
   render() {
